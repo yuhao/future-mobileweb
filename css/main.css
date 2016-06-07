@@ -16,3 +16,10 @@ p.first-letter::first-letter {
   font-weight: bold;
   color: white;
 }
+
+.new-project-category {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 16px;
+}
