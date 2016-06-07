@@ -11,3 +11,8 @@ p.first-letter::first-letter {
   padding-right: 4px;
   border-radius: 5px;
 }
+
+.faded-strong {
+  font-weight: bold;
+  color: white;
+}
