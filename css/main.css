@@ -25,7 +25,7 @@ p.first-letter::first-letter {
 }
 
 @media (max-width: 1024px) {
-  .portfolio-box-caption .portfolio-box-caption-content .project-name {
+  .portfolio-box .portfolio-box-caption {
     display: none;
   }
 }
