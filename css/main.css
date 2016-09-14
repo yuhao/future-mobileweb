@@ -3,6 +3,14 @@
   color: #f05f40;
 }
 
+.school-sm {
+  padding: 40px;
+}
+
+.school-lg {
+  padding: 60px;
+}
+
 p.first-letter::first-letter {
   font-size: 200%;
   color: #FFF;
